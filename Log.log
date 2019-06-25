@@ -1,1 +1,11 @@
-
+0:0       GLW started.
+0:0       Timer created.
+0:0       ISL initialised.
+0:47      VSync on.
+0:47      Texture Manager created.
+0:47      Vertex Program Manager created.
+0:63      GLContext initialized.
+0:63      Camera created.
+0:63      Particle Manager created.
+0:63      Skybox created.
+2:860     GLW closed.
